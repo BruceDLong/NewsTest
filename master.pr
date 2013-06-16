@@ -1,0 +1,23 @@
+// Test Master
+%< {
+&dog={2 3 4}
+&dog pile = {4 5 6}
+&dog days = {5 6 7}
+
+dog
+{dog, dog pile, dog days}
+
+%INSERT catDefs.pr
+%INSERT ./petItems/pets.pr
+
+{cat, cat pile}
+
+&man={1 2 3}
+&woman={3 2 1}
+&maneater={3 4 5}
+&women rights={7 6 5}
+
+%Insert VariousItems.pr
+%insert VariousItems.pr
+
+... }%>
