@@ -4,7 +4,7 @@
 &dog pile = {4 5 6}
 &dog days = {5 6 7}
 
-dog
+dog pile
 {dog, dog pile, dog days}
 
 %INSERT catDefs.pr
