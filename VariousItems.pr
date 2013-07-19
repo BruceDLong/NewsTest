@@ -1,7 +1,0 @@
-// Test ending insert
-%< {
-&hog={2 3 4}
-&hog pile = {4 5 6}
-&hog days = {5 6 7}
-
-... }%>
