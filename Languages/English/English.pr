@@ -60,9 +60,9 @@
     addRule(1, VP_verb,  1, "$verbPhrase",  "%verb");
 */
 
-%INSERT EnglishWords.pr
-%INSERT EnglishFirstNames.pr
-%INSERT EnglishLastNames.pr
+%INSERT file://EnglishWords.pr
+%INSERT file://EnglishFirstNames.pr
+%INSERT file://EnglishLastNames.pr
 
 // TODO: History and Etymology
 

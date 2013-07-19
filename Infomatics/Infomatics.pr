@@ -6,10 +6,11 @@
 // For example, time & space, causality, etc.  --  This is to Proteus what cLib is to C and C++.
 // The reason the history is included is that is how we attribute authorship to people in the past.
 
-&Infomatics = {
-%INSERT MathLogic.pr
-%INSERT Linguistics.pr
-%INSERT Programming.pr
-%INSERT Foundation.pr
+//&Infomatics = 
+{
+%INSERT file://MathLogic.pr
+%INSERT file://Linguistics.pr
+%INSERT file://Programming.pr
+%INSERT file://Foundation.pr
 }
 
